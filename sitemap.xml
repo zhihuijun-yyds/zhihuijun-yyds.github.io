@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://zhihuijun-yyds.github.io/manifest.json</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/link/index.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/music/index.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/5317.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/posts/5317.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/e597.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/posts/e597.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/551b.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/posts/551b.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/f5f3.html</loc>
+    <loc>https://zhihuijun-yyds.github.io/posts/f5f3.html</loc>
     
     <lastmod>2022-10-03</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://zhihuijun-yyds.github.io/</loc>
     <lastmod>2022-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
